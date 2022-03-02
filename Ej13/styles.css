@@ -1,0 +1,35 @@
+#title {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-style: double;
+    box-shadow: 2px 2px #888888;
+}
+
+th {
+    border-collapse: collapse;
+    border-style: double;
+    font-size: large;
+    text-align: center;
+}
+
+#th0 {
+    background-color: rgb(111, 228, 111);
+}
+
+#th1 {
+    background-color: cyan;
+    text-align: left;
+}
+
+#th2 {
+    background-color: rgb(253, 156, 232);
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.clase1{
+    color: red;
+}

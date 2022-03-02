@@ -1,0 +1,24 @@
+table{
+    background-color: #0a9cce;
+}
+
+th {
+    background-color: #003333;
+    color: #c5f8c6;
+}
+
+td {
+    background-color: #ccffcc;
+}
+
+.oscuro {
+    background-color: #99cc99 !important;
+}
+
+.centrado {
+    text-align: center;
+}
+
+#ancho {
+    padding: 0 45px;
+}
