@@ -1,0 +1,18 @@
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    color: #6b2520;
+}
+#titulo{
+    background-color: #4c9e3e;
+    padding: 0 200px;
+}
+#cabeceras{
+    background-color: #f17171;
+}
+#PequeñoGrande{
+    background-color: #d4b263;
+}
+#pisadas{
+    background-image: url(pisadasPerro.jpg);
+}
